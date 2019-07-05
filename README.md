@@ -1,2 +1,2 @@
 # 100A.IO
-Data Extraction Tool
+Lets imagine... Every piece of data can be converted into static {A} Number
